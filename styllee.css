@@ -22,7 +22,7 @@ h3{
     background-color:silver; height: 80px; width: 180px; margin: 80px;border-radius: 10%;
 }
 h2{
-    text-align: center;padding:25px;
+    text-align: center;padding:25px;font-size: 18px;
 }
 #bodycontainer{
         border: 2px solid black;margin-top: 15px;padding:10px;margin: 3%;height: 500px;border-radius: 25px;background-color: black;

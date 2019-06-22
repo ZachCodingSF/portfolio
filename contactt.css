@@ -19,7 +19,7 @@
     background-color:silver; height: 80px; width: 180px; margin: 80px;border-radius:10%;
 }
 h2{
-    text-align:center;padding:25px;
+    text-align:center;padding:25px;font-size: 18px;
 }
 #form{
     border: 2px solid black; height:10%;height: 500px;
@@ -46,4 +46,7 @@ a{
 }
 a:hover{
     background-color: yellow;
+}
+#id{
+    font-size: 18px;
 }
